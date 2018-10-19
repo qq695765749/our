@@ -1,7 +1,7 @@
 <?php
-namespace app\index\controller;
+namespace app\local\controller;
 
-class Index
+class Git
 {
     public function autoPull()
     {
